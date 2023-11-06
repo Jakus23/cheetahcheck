@@ -1,0 +1,8 @@
+Merit
+    - Get Money From Website
+        Get Website On Internet
+        Find Services
+        
+        
+Object
+    first query: The purpose of the website is to help managers automate the checks that the work is done correctly, and that the follow-up is automated to the reportee that should do the work. The APIs that can be integrated is any online application that the employee uses to automated the work. We will create the backend functionality that will link to the website. The manager or one of the reports of the manager can also use a csv style file to upload data to the monitoring website, which will then produce the same output as the APIs. The website should have a landing page that sells the website and a way for the user to sign-up, upload data or provide a API link, and filter the data. The website should make it look seemless to automate monitoring and solve the problem of a manager that are fed-up with having to check-up on employees. The data that the user uploads will be kept save. The website is ment to capture what demand there is for online automated employee work monitoring. I will be responsible to maintain the website.
